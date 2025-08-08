@@ -6,8 +6,7 @@ public class Main {
         System.out.println("The sum is: " + x + y);
         
         String message = "Hello World
-        System.out.println(message);
-        
+
         if (x = y) {
             System.out.println("x and y are equal");
         }
